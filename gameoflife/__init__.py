@@ -1,0 +1,1 @@
+from .gol import play_game_of_life
